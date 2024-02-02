@@ -11,6 +11,13 @@ namespace MagicVilla_API.Controllers
     [ApiController]
     public class VillaAPI : ControllerBase
     {
+        private readonly ILogger<VillaAPI> _logger;
+
+        public VillaAPI(ILogger<VillaAPI> logger)
+        {
+            logger = _logger;
+        }
+
         //[HttpGet]
         //public ActionResult <IEnumerable<VillaDTO>> GetVillas()
         //{
@@ -25,6 +32,7 @@ namespace MagicVilla_API.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<VillaDTO>> GetVillas()
         {
+            _logger.LogInformation("Getting all villas");
             return Ok(VillaStore.villaList);
         }
 

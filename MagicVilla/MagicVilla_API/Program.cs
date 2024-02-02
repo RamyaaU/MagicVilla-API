@@ -3,7 +3,10 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 
 //adding newtonsoft here it supports teh service
-builder.Services.AddControllers().AddNewtonsoftJson();
+builder.Services.AddControllers(option =>
+{
+    option.ReturnHttpNotAcceptable = true;
+}).AddNewtonsoftJson().AddXmlDataContractSerializerFormatters();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
