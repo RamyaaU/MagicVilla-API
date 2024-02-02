@@ -38,8 +38,12 @@ D:\MagicVilla-API\MagicVilla\MagicVilla_API\bin\Debug\net7.0\MagicVilla_API.deps
 D:\MagicVilla-API\MagicVilla\MagicVilla_API\bin\Debug\net7.0\MagicVilla_API.runtimeconfig.json
 D:\MagicVilla-API\MagicVilla\MagicVilla_API\bin\Debug\net7.0\MagicVilla_API.dll
 D:\MagicVilla-API\MagicVilla\MagicVilla_API\bin\Debug\net7.0\MagicVilla_API.pdb
+D:\MagicVilla-API\MagicVilla\MagicVilla_API\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\MagicVilla-API\MagicVilla\MagicVilla_API\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 D:\MagicVilla-API\MagicVilla\MagicVilla_API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
 D:\MagicVilla-API\MagicVilla\MagicVilla_API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\MagicVilla-API\MagicVilla\MagicVilla_API\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\MagicVilla-API\MagicVilla\MagicVilla_API\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
 D:\MagicVilla-API\MagicVilla\MagicVilla_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\MagicVilla-API\MagicVilla\MagicVilla_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\MagicVilla-API\MagicVilla\MagicVilla_API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -65,7 +69,3 @@ D:\MagicVilla-API\MagicVilla\MagicVilla_API\obj\Debug\net7.0\refint\MagicVilla_A
 D:\MagicVilla-API\MagicVilla\MagicVilla_API\obj\Debug\net7.0\MagicVilla_API.pdb
 D:\MagicVilla-API\MagicVilla\MagicVilla_API\obj\Debug\net7.0\MagicVilla_API.genruntimeconfig.cache
 D:\MagicVilla-API\MagicVilla\MagicVilla_API\obj\Debug\net7.0\ref\MagicVilla_API.dll
-D:\MagicVilla-API\MagicVilla\MagicVilla_API\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
-D:\MagicVilla-API\MagicVilla\MagicVilla_API\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
-D:\MagicVilla-API\MagicVilla\MagicVilla_API\bin\Debug\net7.0\Newtonsoft.Json.dll
-D:\MagicVilla-API\MagicVilla\MagicVilla_API\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
